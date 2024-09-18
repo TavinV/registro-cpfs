@@ -1,0 +1,108 @@
+{
+  "time_volei": [
+    {
+      "cpf": "123.456.789-00",
+      "nome": "Lucas Silva",
+      "idade": 28,
+      "posicao": "Levantador",
+      "altura": "1.88m",
+      "peso": "80kg"
+    },
+    {
+      "cpf": "987.654.321-00",
+      "nome": "João Pereira",
+      "idade": 30,
+      "posicao": "Oposto",
+      "altura": "1.95m",
+      "peso": "85kg"
+    },
+    {
+      "cpf": "456.789.123-00",
+      "nome": "Fernando Souza",
+      "idade": 26,
+      "posicao": "Ponteiro",
+      "altura": "1.90m",
+      "peso": "78kg"
+    },
+    {
+      "cpf": "789.123.456-00",
+      "nome": "Rafael Lima",
+      "idade": 27,
+      "posicao": "Central",
+      "altura": "2.01m",
+      "peso": "92kg"
+    },
+    {
+      "cpf": "321.654.987-00",
+      "nome": "Carlos Almeida",
+      "idade": 29,
+      "posicao": "Libero",
+      "altura": "1.80m",
+      "peso": "75kg"
+    },
+    {
+      "cpf": "654.987.321-00",
+      "nome": "Matheus Oliveira",
+      "idade": 25,
+      "posicao": "Ponteiro",
+      "altura": "1.87m",
+      "peso": "81kg"
+    },
+    {
+      "cpf": "987.654.123-00",
+      "nome": "Gabriel Santos",
+      "idade": 31,
+      "posicao": "Central",
+      "altura": "2.03m",
+      "peso": "95kg"
+    },
+    {
+      "cpf": "147.258.369-00",
+      "nome": "Ricardo Costa",
+      "idade": 33,
+      "posicao": "Oposto",
+      "altura": "1.98m",
+      "peso": "88kg"
+    },
+    {
+      "cpf": "369.258.147-00",
+      "nome": "Felipe Moreira",
+      "idade": 27,
+      "posicao": "Levantador",
+      "altura": "1.90m",
+      "peso": "82kg"
+    },
+    {
+      "cpf": "258.369.147-00",
+      "nome": "Pedro Machado",
+      "idade": 32,
+      "posicao": "Libero",
+      "altura": "1.79m",
+      "peso": "74kg"
+    },
+    {
+      "cpf": "369.147.258-00",
+      "nome": "Daniel Barbosa",
+      "idade": 28,
+      "posicao": "Ponteiro",
+      "altura": "1.92m",
+      "peso": "79kg"
+    },
+    {
+      "cpf": "123.789.456-00",
+      "nome": "Vitor Fernandes",
+      "idade": 30,
+      "posicao": "Central",
+      "altura": "2.00m",
+      "peso": "93kg"
+    },
+    {
+      "cpf": "478.023.418-25",
+      "nome": "Otávio Vinícius Flauzino de Souza",
+      "idade": 16,
+      "posicao": "Libero",
+      "altura": "1.67m",
+      "peso": "51kg"
+    }
+  ]
+}
